@@ -1,0 +1,17 @@
+MARÇAL, J. 
+19.02.2021
+
+CONTEÚDO
+1. Disponibilização do link para aulas do zoom: https://zoom.us/j/94157974706;
+2. Apresentação do ambiente online MoodleCloud, link acesso https://marcalj.gnomio.com, realização da inscrição dos alunos;
+3. Nota técnica: Os alunos que não preencheram o formulário na última aula não estão previamente cadastrados no ambiente online e portanto não conseguiram realizar a sua auto inscrição, estes alunos deverão solicitar ao professor o cadastro.
+4. Conceitos de SGBDs (Diferentes SGBDs, Conceitos de linguagem SQL, Objetos de um SGBD - Tabelas, Views, Stored Procedures, Controle de acesso, Triggers, etc.).
+5. Arquitetura: SGBD x Drivers conexão x Sistemas (acesso).
+6. Conceitos básicos sobre normalização de dados.
+
+ATIVIDADES
+A. Leitura para próxima aula: Unidade I - INTRODUÇÃO A BANCO DE DADOS.
+B. Leitura para próxima aula: ABD_Aula02b_ConceitosDeSGBDs_190221.pdf.
+C. Modelagem básica de tabelas no Excel para o entendimento de Normalização de Dados e Integridade Referencial. 
+D. Responder o questionário online do MoodleCloud (atenção ao período). 
+  

@@ -1,0 +1,6 @@
+MARÇAL, J.
+
+SQLite: Links
+https://www.sqlite.org
+https://sqlitestudio.pl/
+https://www.sqlitetutorial.net/download-install-sqlite/

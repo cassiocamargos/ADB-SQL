@@ -1,0 +1,15 @@
+MARÇAL, J. 
+05.03.2021
+
+CONTEÚDO
+- Conceitos de DDL - CREATE, ALTER, DROP.
+- Boas praticas para nomenclatura de Tabelas e Colunas.
+- Preparacao de uma coluna para ser utilizada como chave primária (PK) 
+- Desenvolver as atividades do material disponibilizado.
+- Conceitos: Campo NULL, Campo DATE, PK, UNIQUE, DEFAULT.
+
+
+ATIVIDADES
+- Atividade 03: Entrega Online (Planilha excel e script)
+- Ler: UNIDADE II - Capítulo: 3. MODELAGEM DE DADOS 
+

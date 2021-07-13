@@ -1,0 +1,9 @@
+MARCAL, J.
+09.04.2021
+
+CONTEÚDO
+- REVISÃO:  
+  - (lembrete) FK somente se relaciona com PK. 
+  - (lembrete) FK pode ter o nome diferente da PK, mas o tipo deve ser o mesmo.
+  - PK composta (Utilizar exemplo bairros de uma cidade e veículo com dois combustíveis).
+  - (lembrete) A partir da FK se tem acesso a qualquer campo da tabela relacionada (PK).  

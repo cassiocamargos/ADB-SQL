@@ -1,0 +1,7 @@
+﻿MARÇAL, J. 
+16.04.2021
+
+CONTEÚDO
+- Conceitos de backup/restore (agradecimentos ao post de Diego Macena no blog: https://www.diegomacedo.com.br/backup-conceito-e-tipos/). 
+- Restaurar backup de banco de dados.
+- Realizar backup banco de dados.

@@ -1,0 +1,36 @@
+﻿MARÇAL, J. 
+16.04.2021
+
+LISTA EXERCÍCIOS
+Para realizar os exercícios abaixo, importe uma base de dados northwind original.
+
+1. CADASTRO
+1.1 Realize o cadastro de 2 novas categorias de produtos.
+1.2 Cadastre um novo fornecedor. 
+1.3 Cadastre ao menos 4 produtos para cada categoria, utilize o fornecedor cadastrado.
+1.4 Cadastre 2 empregados novos. 
+1.5 Cadastre 5 novos clientes.
+
+2. ATUALIZAÇÃO
+2.1 Adicione 5 unidades a mais no estoque dos produtos com quantidade inferior a 10.
+2.2 Ative os produtos desativados (coluna discontinued). 
+2.3 Aumente a quantidde de estoque em 10% dos produtos da categoria Cervejas.
+2.4 Aumente o preço de venda dos produtos em 15% dos produtos da categoria Cereais.
+
+3. DELEÇÃO
+3.1 Remova uma das categorias que criou (item 1.1, atenção pois precisará remover os produtos primeiro)
+3.2 Identifique dois produtos quaisquer e remova-os da base (atenção com as tabelas filhas, os registros devem sem removidos primeiro).
+3.3 Identifique um fornecedor e o remova da base de dados.
+
+4. SELEÇÃO
+Atenção, 
+4.1 Selecione todos os produtos com quantidade de estoque zerada. 
+4.2 Selecione todos os protutos ativos que o preço unitário é inferior a 50.00.
+4.3 Selecione todos os clientes que são do brasil. 
+4.4 Selecione todos os pedidos que são do ano de 1996. 
+4.5 Selecione todos os produtos que a quantidade em estoque esteja entre 20 e 50 unidades e que o preco de venda seja superior a 25.00.
+4.6 Selecione todos os produtos que são das categorias cervejas, cereais e confecções que contem alguma unidade reservada para venda (verifique a coluna units in order).
+4.7 Selecione todos os pedidos que sao do mes agosto de 1996 e janeiro de 1997.
+
+
+

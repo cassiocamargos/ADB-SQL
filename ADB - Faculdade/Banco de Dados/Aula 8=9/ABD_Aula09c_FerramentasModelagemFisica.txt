@@ -1,0 +1,7 @@
+MARCAL, J.
+09.04.2021
+
+CONTEÚDO
+- Ferramentas de modelagem física online
+	https://sqldbm.com/Home/
+    https://dbdiagram.io/home

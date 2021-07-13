@@ -1,0 +1,9 @@
+﻿MARÇAL, J. 
+07.05.2021
+
+CONTEÚDO
+- Funções para aumento de performance SQL: Between, Not, Not Null, In, Exists, Or;
+- Funções auxiliares: Case, Decode, Year, Month, Day;
+- Apelido para colunas, tabelas.
+
+

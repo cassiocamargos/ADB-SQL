@@ -1,0 +1,56 @@
+﻿MARÇAL, J. 
+23.04.2020
+
+CONTEÚDO
+  CONTEÚDO DA AULA 
+    - Apostila: ABD_Aula01f_ApostilaLingSqlNaPratica_InstrucoesDdlDmlDcl.pdf
+	- Linguagem SQL: DML - SELECT simples com uso de filtros (LIKE, IN, BETWEEN, IS NULL, =, >, >=, <, <=).
+	- Linguagem SQL: DML - SELECT simples com ordenação.
+	- Linguagem SQL: DML - SELECT simples (com joins: INNER, LEFT, RIGTH).
+  
+  CONTEÚDO ANTECIPADO
+	- Linguagem SQL: DML - SELECT com várias tabelas.
+	- Linguagem SQL: DML - Agrupamento (conteúdo antecipado em função dos prazos)
+	- Linguagem SQL: DML - Limitação registros (TOP, FIRST - conteúdo antecipado em função dos prazos)
+	- Instruções auxiliares - YEAR, MONTH, DAY...
+  
+
+SCRIPT PARA TESTES
+	CREATE TEMP TABLE DISCIPLINAS(
+	  disid INT NOT NULL PRIMARY KEY, 
+	  disnome VARCHAR(25) NOT NULL
+	);
+
+	CREATE TEMP TABLE ALUNOS(
+	  aluid INT NOT NULL PRIMARY KEY, 
+	  alunome VARCHAR(50) NOT NULL,
+	  disid INT
+	);
+
+	INSERT INTO DISCIPLINAS VALUES (1, 'ADS');
+	INSERT INTO DISCIPLINAS VALUES (2, 'TI');
+	INSERT INTO DISCIPLINAS VALUES (3, 'RD');
+	INSERT INTO DISCIPLINAS VALUES (4, 'SI');
+	INSERT INTO DISCIPLINAS VALUES (5, 'CC');
+
+	INSERT INTO ALUNOS VALUES(100, 'ANA', 1);
+	INSERT INTO ALUNOS VALUES(101, 'JOAO', 1);
+	INSERT INTO ALUNOS VALUES(103, 'MARIA', 2);
+	INSERT INTO ALUNOS VALUES(104, 'CARMEM', NULL);
+	INSERT INTO ALUNOS VALUES(105, 'CARLOS', NULL);
+
+	SELECT *
+	  FROM DISCIPLINAS;
+	  
+	SELECT *
+	  FROM ALUNOS;
+
+	SELECT *
+	  FROM ALUNOS INNER JOIN DISCIPLINAS ON ALUNOS.DISID = DISCIPLINAS.DISID;
+	  
+	SELECT *
+	  FROM ALUNOS LEFT JOIN DISCIPLINAS ON ALUNOS.DISID = DISCIPLINAS.DISID;
+	  
+	SELECT *
+	  FROM ALUNOS RIGHT JOIN DISCIPLINAS ON ALUNOS.DISID = DISCIPLINAS.DISID;
+

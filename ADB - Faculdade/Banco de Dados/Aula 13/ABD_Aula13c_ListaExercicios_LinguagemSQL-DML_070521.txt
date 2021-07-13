@@ -1,0 +1,59 @@
+﻿MARÇAL, J. 
+19.05.2020
+
+LISTA EXERCÍCIOS
+
+SQL-EX01
+PRODUTOS - Monte uma instrução SQL que retorne o código e nome dos produtos que a quantidade de estoque esteja entre 50 e 100 unidades e que esteja ativo (discontinued = 0)
+
+SQL-EX02
+CATEGORIAS x PRODUTOS - Monte uma instrução SQL que retorne o código e nome de cada categoria e também o número de produtos cadastrados em cada categoria, a instrução SQL deverá considerar somente os produtos com preço menores que 50 unidades e maiores que 100 unidades e que estejam ativos.
+
+
+SQL-EX03
+FORNECEDORES x CATEGORIAS - Monte uma instrução SQL que possibilite visualizar o código do fornecedor, a descrição e o número de produtos fornecidos por cada fornecedor, a instrução deverá contar apenas os produtos desativados.
+
+
+SQL-EX04
+PRODUTOS x CATEGORIAS x FORNECEDORES - Monte uma instrução que exiba o código do produto, a descrição, a descrição da categoria e também a descrição do fornecedor, esta instrução deverá levar em consideração somente os produtos com preço acima de 0 e que esteja com estoque positivo. 
+
+
+SQL-EX05
+CLIENTES x PEDIDOS - Monte uma instrução SQL que retorne o código, nome do cliente e número de pedidos vendidos a cada um dos clientes, a instrução deve considerar somente os pedidos emitidos entre 1996 e 1997.
+
+SQL-EX06
+PEDIDOS x  CLIENTES - Monte uma instrução SQL que retorne o código do pedido, data da venda e também o nome do cliente, somente os pedidos com frente acima de 50,00 e emitidos a partir de 01/01/1996 devem ser exibidos. 
+
+
+SQL-EX07
+CLIENTES x PEDIDOS - Monte uma instrução SQL que possibilite visualizar o código e nome de cada cliente e também o número de pedidos vendidos a cada um dos clientes, considere somente os pedidos que já foram despachados (ShippedDate is not null), que foram emitidos no período entre janeiro e março de 1998.
+
+
+SQL-EX08
+CLIENTES x PEDIDOS - Monte uma instrução SQL que exiba o código e nome de todos os clientes que o nome inicia com "A", aproveite e adicione na instrução o maior valor de frete já pago em um pedido para cada um dos clientes que será exibido.
+
+
+SQL-EX09
+PEDIDOS x CLIENTES x VENDEDORES - Monte uma instrução SQL que possibilite visualizar o número do pedido e data de emissão, adicione também o nome do cliente e nome do vendedor que o emitiu, considere apenas os pedidos emitidos nos anos de 1997 e 1998.
+
+
+SQL-EX10
+PEDIDOS x ITENS PEDIDOS - Montes uma instrução SQL que exiba o número de cada pedido e também o número de itens vendidos em cada um dos pedidos, considere apenas os pedidos emitidos nos meses de Janeiro dos anos de 1996 e 1997.
+
+SQL-EX11
+PEDIDOS x ITENS PEDIDOS - Monte uma instrução SQL que exiba o número de cada pedido e também o valor de cada pedido, o valor é obtido a partir soma das multiplicações da quantidade vendida de cada item versus o preço unitário de cada produto vendido.
+
+SQL-EX12
+CLIENTES x PEDIDOS x ITENS PEDIDO - Monte uma instrução SQL que exiba o nome do cliente, número do pedido e também o valor de cada pedido, considere apenas os pedidos que não foram emitidos em 1997 e 1998.
+
+SQL-EX13
+PEDIDO x ITENS PEDIDO x CLIENTES x VENDEDORES - Monte uma instrução que exiba o código e data de emissão de cada pedido, adicione também o nome do cliente e nome do vendedor e por final o valor total de cada pedido. Exiba somente os pedios que o frete esteja entre 10,00 e 50,00 e que já foram enviados (ShippedDate is not null) e que foram emitidos de maio a julho de 1996.
+
+SQL-EX14
+PEDIDO x ITENS PEDIDO x TOP 10 - Monte uma instrução SQL que exiba o número e valor dos 10 pedidos mais caros ordenados de forma decrescente pelo valor.
+
+SQL-EX15
+PEDIDO x ITENS PEDIDO - Monte uma instrução SQL que exiba o menor e maior valor de pedido, adicione também o valor médio dos pedidos e a soma dos valores de todos os pedidos emitidos, aproveite para exibir apenas informações dos pedidos enviados para o Brasil.
+
+
+

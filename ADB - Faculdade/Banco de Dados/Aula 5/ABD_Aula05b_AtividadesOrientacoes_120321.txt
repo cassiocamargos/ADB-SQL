@@ -1,0 +1,11 @@
+﻿MARÇAL, J. 
+12.03.2021
+
+CONTEÚDO
+- Conceitos de DDL - Chaves Primárias (PK);
+- Conceitos de DDL - Chaves Estrangeiras (FK);
+- Desenvolvimento prático em sala de modelagem DDL com uso de PK e FK.
+
+ATIVIDADES
+- A1: Desenvolver o diagrama físico (DDL) baseado na Planilha do Excel utilizando os conceitos de PK e FK.
+- A2: Criar os modelos físicos com uso PK e FK para as atividades descritas no material de aula.

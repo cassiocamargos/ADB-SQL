@@ -1,0 +1,7 @@
+MARÇAL, J.
+19.03.2021
+
+CONTEÚDO
+	- PKs Compostas (exemplo prático)
+	- FKs Nulas (exemplo prático)
+	- Cardinalidade (demonstração de exemplos)

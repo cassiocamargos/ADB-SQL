@@ -1,0 +1,39 @@
+﻿MARÇAL, J. 
+23.04.2021
+
+
+QUESTÕES
+
+--------
+CLIENTES
+--------
+a) Monte uma instrução SQL que exiba o código, nome e cidade de cada um dos clientes, somente os clientes que são do brasil devem ser exibidos nesta instrução. 
+
+b) Monte uma instrução SQL que exiba o código, nome, nome do contato, cidade e país de cada cliente, adicine também o número do pedido e data de emissão de cada pedido, somente os clientes que são do Brasil e Estados Unidos e que contenham no nome a letra A devem ser exibidos.
+
+
+--------
+PRODUTOS
+--------
+a) Monte uma instrução SQL que possibilite exibir o código, nome do produto e também a descrição da categoria de cada produto.
+
+b) Monte uma instrução SQL que exiba o CODIGO, DESCRIÇÃO e QUANTIDADE DE PRODUTOS EM ESTOQUE de todos os produtos juntamente com a DESCRIÇÃO das categorias, este select deverá exibir somente os produtos que contiverem mais que 10 unidades em estoque e que estão ATIVOS.
+
+c) Monte uma instrução SQL que possibilite visualizar o CODIGO e DESCRIÇÃO de cada produto e ainda o NOME e CIDADE do fornecedor dos mesmos, exiba apenas os produtos que estão ATIVOS e que o PREÇO UNITÁRIO esteja entre 10.00 e 50.00 reais.
+
+
+--------
+PEDIDOS
+--------
+a) Monte uma instrução SQL que possibilite visualizar o NÚMERO, DATA ENVIO e VALOR DO FRETE dos pedidos e também o NOME do cliente, as informações exibidas devem levar e consideração apenas os pedidos com valor de FRETE acima de 25,00.
+
+b) Monte uma instrução SQL que exiba o NÚMERO, DATA ENVIO e VALOR DO FRETE dos pedidos, acrescente também o NOME do cliente e NOME do vendedor.
+
+c) Monte uma instrução SQL que exiba o CÓDIGO e NOME de cada cliente, bem a DESCRIÇÃO de sua classificação (tipo de cliente).
+
+d) Monte uma instrução SQL que exiba do pedido o CÓDIGO, DATAS de EMISSÃO, ENTREGA, ENVIO, valor do FRETE, acrescente também o NOME do cliente, deverão ser exibidos somente os pedidos que foram emitidos para Brasil.
+
+e) Monte uma instrução SQL que possibilite exibir o código, data pedido, data de entrega, valor do frete e também o nome e telefone da empresa que irá fazer a entrega do pedido, somente os pedidos emitidos antes de 1996 devem ser exibidos nesta instrução.
+
+
+

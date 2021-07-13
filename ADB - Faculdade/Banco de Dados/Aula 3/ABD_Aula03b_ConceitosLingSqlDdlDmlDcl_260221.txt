@@ -1,0 +1,20 @@
+﻿MARÇAL, J. 
+26.02.2021
+
+CONTEÚDO
+- Conceitos básicos linguagem SQL - DML (Data manipulation language), DCL (Data constrol language), DDL (Data definition language).
+- Apresentação do ambiente: Microsoft SQL Server.
+- Tipos de dados básicos (Texto, Inteiro, Decimal, Data).
+- Conceitos de campos nulos.
+- Estrutura DDL - Create Database
+- Estrutura comando DDL - Create Table
+- Exemplos de DDL;
+- Apostila adicional: ABD-Aula03a-ApostilaLingSqlNaPratica-InstrucoesDDL-DML.pdf
+- Apostila adicional: Apostila_HistoriaImplentacoes_SQL_Capitulo1.pdf
+
+ATIVIDADE
+- Criação de database usando SQL Server.
+- Desenvolver o DDL proposto na aula anterior (Baseado na Planilha do Excel).
+- Ler: UNIDADE I - Capítulo: 2. SISTEMAS GERENCIADORES DE BANCO DE DADOS SGBDs.
+- Questionário: Responder questionário no MoodleCloud referente a UNIDADE I - Capítulo 1.
+

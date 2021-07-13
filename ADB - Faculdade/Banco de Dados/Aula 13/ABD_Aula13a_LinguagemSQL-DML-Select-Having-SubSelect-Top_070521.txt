@@ -1,0 +1,10 @@
+﻿MARÇAL, J. 
+07.05.2021
+
+CONTEÚDO
+- Having (função para filtro em agrupamento - Group By);
+- Sub-selects;
+- TOP/FIRST (limitação de registros).
+
+ATIVIDADE
+- Prática;

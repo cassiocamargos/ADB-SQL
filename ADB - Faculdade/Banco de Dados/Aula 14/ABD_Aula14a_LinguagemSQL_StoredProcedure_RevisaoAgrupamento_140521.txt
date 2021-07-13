@@ -1,0 +1,13 @@
+﻿MARÇAL, J. 
+14.05.2021
+
+CONTEÚDO
+- Conceitos básicos de Stored Procedures;
+- Implementação de Stored Procedures;
+
+ATIVIDADES
+- Lembrete sobre questões de Estudos Disciplinares (EDs).
+- Criando, alterando e escluindo Stored Procedures.
+- Revisão de agrupamento.
+- Atividade prática.
+

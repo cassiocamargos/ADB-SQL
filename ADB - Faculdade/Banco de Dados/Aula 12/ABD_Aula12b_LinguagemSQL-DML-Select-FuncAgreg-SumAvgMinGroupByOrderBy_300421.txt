@@ -1,0 +1,16 @@
+﻿MARÇAL, J. 
+30.04.2021
+
+CONTEÚDO
+a) Comunicados e avisos gerais.
+b) Revisão da lista de exercícios aula anterior.
+c) Linguagem SQL - SELECT - Funções agregação (SUM, AVG, MIN, MAX)
+d) Linguagem SQL - SELECT - Funções agrupamento (GROUP BY)
+e) Linguagem SQL - SELECT - Funções ordenação (ORDER BY)
+f) Apelido para colunas, tabelas.
+
+ATIVIDADE
+1) Prática com funções agregadas;
+2) Resolução lista de exercícios em sala;
+3) Desenvolvimento de atividade.
+

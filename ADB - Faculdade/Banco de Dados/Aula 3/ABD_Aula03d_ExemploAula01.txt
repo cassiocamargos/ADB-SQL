@@ -1,0 +1,35 @@
+
+SQL (Structury Query Language)
+  DDL - Data Definition Language (Linguagem de Definiçao de Dados)
+	Create (Criar)
+	Alter  (Alterar)
+	Drop   (Excluir)
+	
+  DML - Data Manipulation Language (Linguagem de Manipulaçao de Dados)
+	Insert (Inserir)
+	Update (Atualizar)
+	Delete (Deletar)
+	Select (Selecionar) 90%
+  
+  DCL - Data Control Language (Linguagem de Controle de Dados)
+	Grant  (Conceder)
+	Revoke (Remover)
+	
+TIPOS DE DADOS                                
+	TEXTO       VARCHAR(TAMANHO)              
+	INTEIRO     INTEGER
+	DECIMAL     DECIMAL(TAMANHO, PRECISAO)    
+	BOOLEANO    INTEGER 
+	
+	ALTURA  - M.CC                 DECIMAL(3,2)
+	SALARIO - 9.999.999,99         DECIMAL(9,2)
+	PRECO COMBUSTIVEL 99.999,999   DECIMAL(8,3) 
+	
+	
+	
+	            SQL SERVER
+	TEXTO       SQL SERVER(VARCHAR, CHAR, NVARCHAR, NCHAR, TEXT, BLOB, BINARY)
+	INTEIRO     SQL SERVER(INTEGER, SMALLINT, BIGINT, LONGINT, BIT, ...)
+	
+	
+	

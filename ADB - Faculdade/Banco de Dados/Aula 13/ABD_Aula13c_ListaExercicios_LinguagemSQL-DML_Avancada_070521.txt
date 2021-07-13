@@ -1,0 +1,27 @@
+﻿MARÇAL, J. 
+19.05.2020
+
+LISTA EXERCÍCIOS AVANÇADA
+A presente lista envolve o desenvolvimento de instruções que fazem uso das funções avançadas da linguagem SQL.
+
+SQL-EX01
+CAGEGORIAS - Uma listagem que contenha o código da categoria e o nome e também o número de produtos cadastrados em cada categoria, devem ser considerados apenas os produtos com quantidade positiva em estoque e que estejam ativos.
+
+SQL-EX02
+PRODUTOS - Exiba uma relação com o código do produto, descrição, situação (a descrição da situação deverá ser textual, 'ATIVO', 'DESATIVO'), quantidade em estoque e o valor total em estoque deste produto, esta relação deverá considerar apenas os protudos com quantidade em estoque positiva e que o preço de venda seja menor 50.00 e produtos com preço de venda maiores que 100.00.
+
+
+SQL-EX03
+PRODUTOS X ITENS VENDIDOS X PEDIDOS - Exiba uma relação com o código do produto, descrição e quantidade de produto em estoque de todos os produtos que foram vendidos no ano de 1997 (neste exercício será necessário utilizar um sub-select como filtro, no sub-select terá que relacionar a tabelas itens pedidos e pedidos pois é na tabela pedido que consta a data de venda)
+
+
+SQL-EX04
+PEDIDOS - Exiba uma relação contendo o número de pedidos e a média de pedidos vendidos por mês, considere apenas os pedidos emitidos no ano de 1996 (a relação deverá exibir o número do mês, contador de número de pedidos, e média número pedidos).
+
+
+SQL-EX05
+PEDIDOS - Exiba uma relação contendo o número do pedido e valor total de cada pedido, devem ser considerados apenas os pedidos em que o valor do frete seja positivo e pedidos emitidos entre 1996 e 1997, os pedidos deverão ser ordenados do maior valor para o menor valor.
+
+
+SQL-EX06
+PEDIDOS - Exiba uma relação contendo o número do pedido e valor total de cada pedido, devem ser considerados apenas os pedidos em que o valor do frete seja positivo, pedidos emitidos entre 1996 e 1997 e com valor acima de R$ 100,00 os pedidos devem estar ordenados por ordem de valores.
